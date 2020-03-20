@@ -1,0 +1,11 @@
+com\xch\test\Test02.class
+com\xch\test\Test01.class
+com\xch\annontion\AddAnnontion.class
+com\xch\aop\AopLog.class
+com\xch\service\impl\UserServiceImpl.class
+com\xch\annontion\ExtTransactional.class
+com\xch\proxy\UserServiceProxy.class
+com\xch\utils\TransactionUtils.class
+com\xch\service\UserService.class
+com\xch\aop\AopTransaction.class
+com\xch\dao\UserDao.class
